@@ -1,4 +1,4 @@
-This is a demo node.js application with multiple CI/CD workflow
+This is a demo node.js application with multiple CI/CD workflow v2
 definitions.  There are three workflows:
 
 1. [CI / PR validation build](#ci--pr-validation-build)
