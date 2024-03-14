@@ -4,7 +4,7 @@
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azure-pipelines-samples/node.js"
+    "url": "git+https://github.com/azure-pipelines-samples/node.js.git"
   },
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,12 @@
     "mocha-multi-reporters": "^1.1.7",
     "nyc": "^13.3.0",
     "supertest": "^3.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/azure-pipelines-samples/node.js/issues"
+  },
+  "homepage": "https://github.com/azure-pipelines-samples/node.js#readme",
+  "directories": {
+    "test": "test"
   }
 }
