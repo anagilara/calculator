@@ -39,5 +39,8 @@
   "homepage": "https://github.com/azure-pipelines-samples/node.js#readme",
   "directories": {
     "test": "test"
+  },
+  "publishConfig": {
+    "@anagillara:registry": "https://npm.pkg.github.com"
   }
 }
