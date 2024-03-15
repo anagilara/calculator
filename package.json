@@ -41,6 +41,6 @@
     "test": "test"
   },
   "publishConfig": {
-    "@anagillara:registry": "https://npm.pkg.github.com"
+    "@anagillara:registry": "https://github.com/anagilara/api/v4/projects/calculator/packages/npm/"
   }
 }
